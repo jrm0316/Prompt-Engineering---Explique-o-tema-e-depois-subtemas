@@ -1,4 +1,4 @@
-# Assistente-Educacional-com-IA-usando-LangChain
+# Prompt Engineering - Explique o tema e depois siga subtemas
 
 - Este repositório apresenta uma aplicação desenvolvida em Python que utiliza LangChain em conjunto com um modelo de linguagem da Groq (LLM) para gerar explicações educacionais de forma estruturada, previsível e reutilizável.
 - O projeto vai além de uma simples chamada a um modelo de IA. Ele demonstra como controlar o comportamento da IA por meio de engenharia de prompts, aplicando boas práticas usadas em aplicações reais de backend com LLMs.
