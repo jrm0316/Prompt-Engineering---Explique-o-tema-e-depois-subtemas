@@ -1,4 +1,4 @@
-# Prompt Engineering - Explique o tema e depois siga subtemas
+# Prompt Engineering - Explique o tema e depois subtemas
 
 - Este repositório apresenta uma aplicação desenvolvida em Python que utiliza LangChain em conjunto com um modelo de linguagem da Groq (LLM) para gerar explicações educacionais de forma estruturada, previsível e reutilizável.
 - O projeto vai além de uma simples chamada a um modelo de IA. Ele demonstra como controlar o comportamento da IA por meio de engenharia de prompts, aplicando boas práticas usadas em aplicações reais de backend com LLMs.
@@ -53,19 +53,19 @@ assistente-educacional-langchain/
 
 Como executar o projeto
   1.) Clonar o repositório
-git clone https://github.com/seu-usuario/assistente-educacional-langchain.git
-cd assistente-educacional-langchain
+    git clone https://github.com/seu-usuario/Prompt-Engineering---Explique-o-tema-e-depois-subtemas.git
+    cd assistente-educacional-langchain
 
   2.) Instalar as dependências
-pip install langchain langchain-groq python-dotenv
+    pip install langchain langchain-groq python-dotenv
 
   3.) Configurar a variável de ambiente
 Crie um arquivo .env na raiz do projeto e adicione sua chave da Groq:
 
-GROQ_API_KEY=SUA_CHAVE_AQUI
+    GROQ_API_KEY=SUA_CHAVE_AQUI
 
   4.) Executar o script
-python main.py
+    python main.py
 
 
 Alterando o tema analisado
@@ -106,7 +106,3 @@ Possíveis evoluções do projeto
 - Retorno estruturado em JSON
 - Exposição do serviço via API (FastAPI)
 - Interface web simples
-
-  
-📄 Licença
-- Projeto desenvolvido para fins educacionais e demonstração técnica.
