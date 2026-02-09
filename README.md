@@ -52,6 +52,7 @@ assistente-educacional-langchain/
 
 
 Como executar o projeto
+
   1.) Clonar o repositório
     git clone https://github.com/seu-usuario/Prompt-Engineering---Explique-o-tema-e-depois-subtemas.git
     cd assistente-educacional-langchain
