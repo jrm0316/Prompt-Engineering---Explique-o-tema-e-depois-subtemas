@@ -46,8 +46,11 @@ Tecnologias e conceitos utilizados
 Estrutura do projeto
 assistente-educacional-langchain/
 │
+
 ├── main.py
+
 ├── .env
+
 └── README.md
 
 
